@@ -54,3 +54,4 @@ aside - plan for tomorrow:
 click 'Analysis' -> pick your preferred subject area -> BI Composer taskflow appears
 
 the RPD Development Course is the course that teaches you how to create subject areas
+

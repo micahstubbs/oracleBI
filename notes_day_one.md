@@ -131,7 +131,7 @@ selection steps
 prompts
 conditions
 
-where a prompt is a special kind of filter  that interactivly restricts the result set returned by an analysis; can be used to populate variables.
+where a prompt is a special kind of filter  that interactively restricts the result set returned by an analysis; can be used to populate variables.
 
 remember - an analysis is just a query
 
