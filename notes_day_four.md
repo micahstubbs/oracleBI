@@ -24,3 +24,11 @@ you can integrate OracleBI Answers with Microsoft Excel and PowerPoint
 this is done with an ODBC connection
 
 you need to have access to the BI Server to configure the ODBC connection
+
+---
+
+http://www.oracle.com/technetwork/middleware/bi-enterprise-edition/overview/index.html
+
+http://www.oracle.com/technetwork/middleware/bi-enterprise-edition/downloads/index.html
+
+http://www.oracle.com/technetwork/middleware/bi-enterprise-edition/downloads/bi-downloads-1923016.html
